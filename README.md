@@ -25,6 +25,10 @@ Angular UI Student Table
 ![Screenshot](4.png)
 Add new Student
 
+# Video Link
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ndUI6IDt5M4/1.jpg)](https://www.youtube.com/watch?v=ndUI6IDt5M4)
+
+
 
 
 
