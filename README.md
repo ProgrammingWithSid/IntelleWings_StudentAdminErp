@@ -1,6 +1,6 @@
 # IntelleWings_StudentAdminErp
 
-Angular-CRUD-with-Asp.Net-Core-Web-API
+Angular-with-Asp.Net-Core-Web-API
 **Full Stack Angular js CRUD with Asp.Net Core Web
 
 Points discussed :
