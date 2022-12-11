@@ -12,4 +12,20 @@ Points discussed :
   5. Real-Time Form Validation
   6. etc
 
+# Screenshots
+![Screenshot](1.png)
+Swagger Api Testing
+
+![Screenshot](2.png)
+Swagger GET Fetch
+
+![Screenshot](3.png)
+Angular UI Student Table
+
+![Screenshot](4.png)
+Add new Student
+
+
+
+
 
