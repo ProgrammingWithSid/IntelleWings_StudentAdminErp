@@ -11,6 +11,12 @@ Points discussed :
   4. Consume API web methods from React
   5. Real-Time Form Validation
   6. etc
+  
+  #Tables 
+  1. Student
+  2. Gender
+  3. Address
+
 
 # Screenshots
 ![Screenshot](1.png)
